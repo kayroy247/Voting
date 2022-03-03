@@ -1,4 +1,4 @@
-# Advanced Sample Hardhat Project
+# Simple contract with test that forks BSC mainnet and impersonates a whale account.
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
